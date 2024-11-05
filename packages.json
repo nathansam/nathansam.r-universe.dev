@@ -10,5 +10,10 @@
     {
         "package": "BASSLINE",
         "url": "https://github.com/nathansam/BASSLINE"
+    }, 
+    {
+        "package": "libdr",
+        "url": "https://github.com/VallejosGroup/Lothian-IBDR",
+        "subdir": "libdr"
     }
 ]
